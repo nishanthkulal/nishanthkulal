@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Nishanth Kulal</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Python Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://gifimage.net/wp-content/uploads/2017/08/im-in-gif-8.gif">
 
 
