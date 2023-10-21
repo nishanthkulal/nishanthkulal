@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Nishanth Kulal</h1>
-<h3 align="center">A passionate Python Developer from India</h3>
+<h3 align="center">A passionate Application developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://gifimage.net/wp-content/uploads/2017/08/im-in-gif-8.gif">
 
 
@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Python3**
+- 🌱 I’m currently learning **React-Native**
 
 - 📫 How to reach me **nishanthkulal9741@gmail.com**
 
